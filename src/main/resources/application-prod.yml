@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-center
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: kS7gUCWE
+    url: jdbc:mysql://sh-cynosdbmysql-grp-8pkapq8m.sql.tencentcdb.com:22193/user-center
